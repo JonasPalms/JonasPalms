@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonasPalms
 - 👀 I’m interested in becoming an IT-professional working on innovative user-oriented applications
-- 🌱 I’m currently learning python and javscript from scratch
+- 🌱 I’m currently learning HTML, CSS and javascript.
 
 - 📫 You can contact me on jonas.p.sorensen@gmail.com
 
