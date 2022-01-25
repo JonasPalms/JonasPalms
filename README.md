@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @JonasPalms
-- 👀 I’m interested in becoming an IT-professional working on innovative user-oriented applications
-- 🌱 I’m currently learning HTML, CSS and javascript.
-
-- 📫 You can contact me on jonas.p.sorensen@gmail.com
+Junior Frontend Developer at Apply Agency Copenhagen 👏
 
 <!---
 JonasPalms/JonasPalms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
