@@ -1,4 +1,4 @@
-Junior Frontend Developer at Apply Agency Copenhagen 👏
+Frontend Developer at Apply Agency Copenhagen 👏
 
 <!---
 JonasPalms/JonasPalms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
